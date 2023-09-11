@@ -1,11 +1,15 @@
+/*
+ * File: 0-positive_or_negative.c
+*/
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <time.h>
 
 /**
- * main: print whether the number stored in n is positive
- * or negative or zero
- * Return: 0 success
+ * main - print whether the number stored in n is positive
+ * or negative or zero.
+ * Return: 0 .
 */
 
 int main(void)
